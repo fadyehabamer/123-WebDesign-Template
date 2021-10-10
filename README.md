@@ -1,2 +1,2 @@
-# Full website/Responsive
- Using only Html5/Css3
+# Full Responsive website 
+> Using only Html5/Css3
